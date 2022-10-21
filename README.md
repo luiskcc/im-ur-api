@@ -1,7 +1,11 @@
-# README
+# MAY THE 4TH 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Rails Backend Application
+Data Fetched From a Third-Party API (https://swapi.dev/) via RestClient
+
+
+
+https://jefferson-cuartas.medium.com/rails-backend-how-to-fetch-data-from-a-third-party-api-via-restclient-c6968e70d6f5
 
 Things you may want to cover:
 
